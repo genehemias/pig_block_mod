@@ -7,12 +7,12 @@ This block is not yet craftable.
 
 ## Installation
 Place this folder (unzipped) in the `../minetest<version>/mods/` folder
-The folder name should be 'elinor_mod'
+The folder name should be 'pig_block_mod'
   
 ## Usage
 block can be found in the inventory in creative mode. seearch for 'pigblock'
 
-OR, if you have the 'give' privilege, type the command `/giveme elinor_mod:pigblock`
+OR, if you have the 'give' privilege, type the command `/giveme pig_block_mod:pigblock`
 
 
 ## License

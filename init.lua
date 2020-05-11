@@ -1,6 +1,6 @@
-minetest.register_node("elinor_mod:pigblock",
+minetest.register_node("pig_block:pigblock",
 {
-    tiles = {"elinor_mod_pigblock.png"},
+    tiles = {"pig_block__mod_pigblock.png"},
     groups= {
         snappy = 3,
         choppy = 3,
